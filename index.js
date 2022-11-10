@@ -13,7 +13,7 @@ app.listen(port, () => {
 })
 
 app.post("/", (req, res) => {
-    res.send("Teste de Post!!!!")
+    res.send("Teste de Posts!!!!")
 })
 
 
