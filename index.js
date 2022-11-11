@@ -34,9 +34,6 @@ app.post("/", (req, res) => {
 
 
 
-
-
-
 //Exemplo Callback
  /*
 function minhaFuncao(port, funcao){

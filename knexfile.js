@@ -12,11 +12,7 @@ module.exports = {
       port : 3306,
       database: 'tcc',
       user:     'root',
-      password: 'breno5588'
-    },
-    pool: {
-      min: 2,
-      max: 10
+      password: ''
     },
     migrations: {
       tableName: 'knex_migrations'
